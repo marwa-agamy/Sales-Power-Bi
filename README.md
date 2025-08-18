@@ -1,8 +1,5 @@
 # Sales Data Analysis - Power BI Dashboard
 
-![Power BI Dashboard Preview](<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/1b9b454b-7cc1-4f47-89fb-96229497ac94" />
-)
-
 ## 📌 Overview
 This Power BI project provides an interactive analytics solution for sales data, offering insights into order patterns, customer behavior, and revenue performance across different territories and product categories.
 
